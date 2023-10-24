@@ -1,0 +1,14 @@
+C:\Proiecte\Problema 2\bin\Debug\net7.0\Problema 2.exe
+C:\Proiecte\Problema 2\bin\Debug\net7.0\Problema 2.deps.json
+C:\Proiecte\Problema 2\bin\Debug\net7.0\Problema 2.runtimeconfig.json
+C:\Proiecte\Problema 2\bin\Debug\net7.0\Problema 2.dll
+C:\Proiecte\Problema 2\bin\Debug\net7.0\Problema 2.pdb
+C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.AssemblyInfoInputs.cache
+C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.AssemblyInfo.cs
+C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.csproj.CoreCompileInputs.cache
+C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.dll
+C:\Proiecte\Problema 2\obj\Debug\net7.0\refint\Problema 2.dll
+C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.pdb
+C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.genruntimeconfig.cache
+C:\Proiecte\Problema 2\obj\Debug\net7.0\ref\Problema 2.dll
