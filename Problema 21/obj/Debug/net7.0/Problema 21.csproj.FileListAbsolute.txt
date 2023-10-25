@@ -1,0 +1,14 @@
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\bin\Debug\net7.0\Problema 21.exe
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\bin\Debug\net7.0\Problema 21.deps.json
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\bin\Debug\net7.0\Problema 21.runtimeconfig.json
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\bin\Debug\net7.0\Problema 21.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\bin\Debug\net7.0\Problema 21.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\Problema 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\Problema 21.AssemblyInfoInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\Problema 21.AssemblyInfo.cs
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\Problema 21.csproj.CoreCompileInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\Problema 21.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\refint\Problema 21.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\Problema 21.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\Problema 21.genruntimeconfig.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 21\obj\Debug\net7.0\ref\Problema 21.dll
