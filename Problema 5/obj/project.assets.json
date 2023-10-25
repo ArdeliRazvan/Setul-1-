@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proiecte\\Setul 1\\Problema 5\\Problema 5.csproj",
+      "projectUniqueName": "C:\\Users\\Ardeli Razvan Stefan\\Desktop\\Setul 1\\Problema 5\\Problema 5.csproj",
       "projectName": "Problema 5",
-      "projectPath": "C:\\Proiecte\\Setul 1\\Problema 5\\Problema 5.csproj",
+      "projectPath": "C:\\Users\\Ardeli Razvan Stefan\\Desktop\\Setul 1\\Problema 5\\Problema 5.csproj",
       "packagesPath": "C:\\Users\\Ardeli Razvan Stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Proiecte\\Setul 1\\Problema 5\\obj\\",
+      "outputPath": "C:\\Users\\Ardeli Razvan Stefan\\Desktop\\Setul 1\\Problema 5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ardeli Razvan Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

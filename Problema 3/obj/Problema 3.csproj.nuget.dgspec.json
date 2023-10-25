@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proiecte\\Setul 1\\Problema 3\\Problema 3.csproj": {}
+    "C:\\Users\\Ardeli Razvan Stefan\\Desktop\\Setul 1\\Problema 3\\Problema 3.csproj": {}
   },
   "projects": {
-    "C:\\Proiecte\\Setul 1\\Problema 3\\Problema 3.csproj": {
+    "C:\\Users\\Ardeli Razvan Stefan\\Desktop\\Setul 1\\Problema 3\\Problema 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proiecte\\Setul 1\\Problema 3\\Problema 3.csproj",
+        "projectUniqueName": "C:\\Users\\Ardeli Razvan Stefan\\Desktop\\Setul 1\\Problema 3\\Problema 3.csproj",
         "projectName": "Problema 3",
-        "projectPath": "C:\\Proiecte\\Setul 1\\Problema 3\\Problema 3.csproj",
+        "projectPath": "C:\\Users\\Ardeli Razvan Stefan\\Desktop\\Setul 1\\Problema 3\\Problema 3.csproj",
         "packagesPath": "C:\\Users\\Ardeli Razvan Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Proiecte\\Setul 1\\Problema 3\\obj\\",
+        "outputPath": "C:\\Users\\Ardeli Razvan Stefan\\Desktop\\Setul 1\\Problema 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ardeli Razvan Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,9 +7,9 @@ Console.Write("k = ");
 int k = int.Parse(Console.ReadLine());
 
 string n2 = string.Empty;
-for (int i = n1.Length - 1; i >= 0; i--)
+for (int i = 0; i < n1.Length; i++)
 {
     n2 += n1[i];
 }
 
-Console.WriteLine($"Numarul de pe pozitia {k} este {n2[k]}");
+Console.WriteLine($"Cifra de pe pozitia {k} este {n2[k]}");

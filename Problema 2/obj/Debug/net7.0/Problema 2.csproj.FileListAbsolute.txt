@@ -12,3 +12,17 @@ C:\Proiecte\Problema 2\obj\Debug\net7.0\refint\Problema 2.dll
 C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.pdb
 C:\Proiecte\Problema 2\obj\Debug\net7.0\Problema 2.genruntimeconfig.cache
 C:\Proiecte\Problema 2\obj\Debug\net7.0\ref\Problema 2.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\bin\Debug\net7.0\Problema 2.exe
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\bin\Debug\net7.0\Problema 2.deps.json
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\bin\Debug\net7.0\Problema 2.runtimeconfig.json
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\bin\Debug\net7.0\Problema 2.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\bin\Debug\net7.0\Problema 2.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\Problema 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\Problema 2.AssemblyInfoInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\Problema 2.AssemblyInfo.cs
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\Problema 2.csproj.CoreCompileInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\Problema 2.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\refint\Problema 2.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\Problema 2.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\Problema 2.genruntimeconfig.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 2\obj\Debug\net7.0\ref\Problema 2.dll

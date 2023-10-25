@@ -1,0 +1,28 @@
+C:\Proiecte\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.exe
+C:\Proiecte\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.deps.json
+C:\Proiecte\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.runtimeconfig.json
+C:\Proiecte\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.dll
+C:\Proiecte\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.pdb
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.AssemblyInfoInputs.cache
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.AssemblyInfo.cs
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.csproj.CoreCompileInputs.cache
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.dll
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\refint\Problema 18.dll
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.pdb
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.genruntimeconfig.cache
+C:\Proiecte\Setul 1\Problema 18\obj\Debug\net7.0\ref\Problema 18.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.exe
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.deps.json
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.runtimeconfig.json
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\bin\Debug\net7.0\Problema 18.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.AssemblyInfoInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.AssemblyInfo.cs
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.csproj.CoreCompileInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\refint\Problema 18.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\Problema 18.genruntimeconfig.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 1\Problema 18\obj\Debug\net7.0\ref\Problema 18.dll
